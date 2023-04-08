@@ -14,3 +14,6 @@
 ### 2023-04-05
 - [學Golang的緣由](https://ithelp.ithome.com.tw/articles/10214255)
 - [Golang 簡介、安裝、與快速開始](https://www.youtube.com/watch?v=yi9zp8yFULk&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=1&ab_channel=%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B)
+
+### 2023-04-07
+- [vuetify  table](https://vuetifyjs.com/en/components/tables/)
