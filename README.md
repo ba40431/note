@@ -1,5 +1,8 @@
 # Abby's note
 
+### 2023-04-09
+-[什麼是 TypeScript](https://willh.gitbook.io/typescript-tutorial/introduction/what-is-typescript)
+
 ### 2023-04-07
 - [vuetify  table](https://vuetifyjs.com/en/components/tables/)
 
