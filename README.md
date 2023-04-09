@@ -2,6 +2,7 @@
 
 ### 2023-04-09
 - [什麼是 TypeScript](https://willh.gitbook.io/typescript-tutorial/introduction/what-is-typescript)
+- [用 TypeScript 和 Express 建立一個 http server](https://jimmyswebnote.com/node-js-typescript-express-create-http-server/)
 
 ### 2023-04-07
 - [vuetify  table](https://vuetifyjs.com/en/components/tables/)
