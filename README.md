@@ -1,5 +1,8 @@
 # Abby's note
 
+### 2023-05-01
+- [機器學習 Machine Learning】3小時初學者教學 | 機器學習教學 | 機器學習入門 | ](https://www.youtube.com/watch?v=wm9yR1VspPs)
+
 ### 2023-04-30
 - [時間複雜度 與 空間複雜度](https://hackmd.io/@joe94113/time_complexity_and_space_complexity)
 - [框架與函式庫](https://blog.heron.me/%E5%BE%9E%E4%B8%80%E5%80%8B%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%B6%93%E9%A9%97-%E7%9C%8B%E6%95%B4%E5%80%8B%E4%BA%BA%E7%94%9F-1f4694090d25)
