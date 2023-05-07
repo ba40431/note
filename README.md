@@ -1,5 +1,9 @@
 # Abby's note
 
+### 2023-05-07
+- [FTP / SFTP 初學者指南](https://www.webhostingsecretrevealed.net/zh-TW/blog/web-hosting-guides/ftp-sftp-beginner-guide/)
+- [[Day24] 資料傳輸安全(通道加密)](https://ithelp.ithome.com.tw/articles/10188645)
+
 ### 2023-05-01
 - [機器學習 Machine Learning】3小時初學者教學 | 機器學習教學 | 機器學習入門 | ](https://www.youtube.com/watch?v=wm9yR1VspPs)
 
