@@ -1,5 +1,9 @@
 # Abby's note
 
+
+### 2023-05-10
+- [React白話文運動01-介紹](https://ithelp.ithome.com.tw/articles/10290610)
+
 ### 2023-05-07
 - [FTP / SFTP 初學者指南](https://www.webhostingsecretrevealed.net/zh-TW/blog/web-hosting-guides/ftp-sftp-beginner-guide/)
 - [[Day24] 資料傳輸安全(通道加密)](https://ithelp.ithome.com.tw/articles/10188645)
