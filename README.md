@@ -1,6 +1,9 @@
 # Abby's note
 
 
+### 2023-05-21
+- [10401 資訊工程學系 計算機程式設計一](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=134)
+
 ### 2023-05-10
 - [React白話文運動01-介紹](https://ithelp.ithome.com.tw/articles/10290610)
 
